@@ -1,0 +1,74 @@
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\bin\Debug\frmMain.exe
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\bin\Debug\frmMain.pdb
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAbout.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmLogin.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmMain.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csproj.GenerateResource.Cache
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.exe
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.pdb
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAddEmployee.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmDeleteEmployee.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmEditEmployee.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement\frmMain\obj\Debug\frmMain.frmManageEmployees.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.exe
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.pdb
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\bin\Debug\frmMain.exe
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\bin\Debug\frmMain.pdb
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAbout.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAddEmployee.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmDeleteEmployee.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmEditEmployee.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmLogin.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmMain.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.frmManageEmployees.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\Tosheto\Desktop\EmployeеManagement-Final\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csproj.GenerateResource.Cache
+D:\GUI Project\EmployeеManagement\frmMain\bin\Debug\frmMain.exe.config
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.exe
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.pdb
+D:\GUI Project\EmployeеManagement\frmMain\bin\Debug\frmMain.exe
+D:\GUI Project\EmployeеManagement\frmMain\bin\Debug\frmMain.pdb
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csprojResolveAssemblyReference.cache
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAbout.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAddEmployee.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmDeleteEmployee.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmEditEmployee.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmLogin.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmMain.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmManageEmployees.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+D:\GUI Project\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csproj.GenerateResource.Cache
+I:\GUI Project\EmployeеManagement\frmMain\bin\Debug\frmMain.exe.config
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.exe
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.pdb
+I:\GUI Project\EmployeеManagement\frmMain\bin\Debug\frmMain.exe
+I:\GUI Project\EmployeеManagement\frmMain\bin\Debug\frmMain.pdb
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csprojResolveAssemblyReference.cache
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAbout.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAddEmployee.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmDeleteEmployee.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmEditEmployee.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmLogin.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmMain.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.frmManageEmployees.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+I:\GUI Project\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csproj.GenerateResource.Cache
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.exe
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.pdb
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAbout.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.frmAddEmployee.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.frmDeleteEmployee.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.frmEditEmployee.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.frmMain.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.frmManageEmployees.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\obj\Debug\EmployeеManagement.csproj.GenerateResource.Cache
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\bin\Debug\frmMain.exe
+C:\Users\Tosheto\Desktop\GUI Projectс\EmployeеManagement\frmMain\bin\Debug\frmMain.pdb
